@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_FirstApp/GeoQuiz/01_FirstApp_GeoQuiz.iml" filepath="$PROJECT_DIR$/01_FirstApp/GeoQuiz/01_FirstApp_GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_MVC/GeoQuiz/02_MVC_GeoQuiz.iml" filepath="$PROJECT_DIR$/02_MVC/GeoQuiz/02_MVC_GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_ActivityLifecycle/GeoQuiz/03_ActivityLifecycle_GeoQuiz.iml" filepath="$PROJECT_DIR$/03_ActivityLifecycle/GeoQuiz/03_ActivityLifecycle_GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_SecondActivity/GeoQuiz/05_SecondActivity_GeoQuiz.iml" filepath="$PROJECT_DIR$/05_SecondActivity/GeoQuiz/05_SecondActivity_GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_AndroidVersions/GeoQuiz/06_AndroidVersions_GeoQuiz.iml" filepath="$PROJECT_DIR$/06_AndroidVersions/GeoQuiz/06_AndroidVersions_GeoQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_UIFragments/CriminalIntent/07_UIFragments_CriminalIntent.iml" filepath="$PROJECT_DIR$/07_UIFragments/CriminalIntent/07_UIFragments_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_LayoutsAndWidgets/CriminalIntent/08_LayoutsAndWidgets_CriminalIntent.iml" filepath="$PROJECT_DIR$/08_LayoutsAndWidgets/CriminalIntent/08_LayoutsAndWidgets_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_ListView/CriminalIntent/09_ListView_CriminalIntent.iml" filepath="$PROJECT_DIR$/09_ListView/CriminalIntent/09_ListView_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_FragmentArguments/CriminalIntent/10_FragmentArguments_CriminalIntent.iml" filepath="$PROJECT_DIR$/10_FragmentArguments/CriminalIntent/10_FragmentArguments_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_ViewPager/CriminalIntent/11_ViewPager_CriminalIntent.iml" filepath="$PROJECT_DIR$/11_ViewPager/CriminalIntent/11_ViewPager_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_DateDialog/CriminalIntent/12_DateDialog_CriminalIntent.iml" filepath="$PROJECT_DIR$/12_DateDialog/CriminalIntent/12_DateDialog_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Audio/HelloMoon/13_Audio_HelloMoon.iml" filepath="$PROJECT_DIR$/13_Audio/HelloMoon/13_Audio_HelloMoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_FragmentRotation/HelloMoon/14_FragmentRotation_HelloMoon.iml" filepath="$PROJECT_DIR$/14_FragmentRotation/HelloMoon/14_FragmentRotation_HelloMoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_Localization/HelloMoon/15_Localization_HelloMoon.iml" filepath="$PROJECT_DIR$/15_Localization/HelloMoon/15_Localization_HelloMoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_Menus1/CriminalIntent/16_Menus1_CriminalIntent.iml" filepath="$PROJECT_DIR$/16_Menus1/CriminalIntent/16_Menus1_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_FileIO/CriminalIntent/17_FileIO_CriminalIntent.iml" filepath="$PROJECT_DIR$/17_FileIO/CriminalIntent/17_FileIO_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Menus2/CriminalIntent/18_Menus2_CriminalIntent.iml" filepath="$PROJECT_DIR$/18_Menus2/CriminalIntent/18_Menus2_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19_CameraPreview/CriminalIntent/19_CameraPreview_CriminalIntent.iml" filepath="$PROJECT_DIR$/19_CameraPreview/CriminalIntent/19_CameraPreview_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_CameraImage/CriminalIntent/20_CameraImage_CriminalIntent.iml" filepath="$PROJECT_DIR$/20_CameraImage/CriminalIntent/20_CameraImage_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_ImplicitIntents/CriminalIntent/21_ImplicitIntents_CriminalIntent.iml" filepath="$PROJECT_DIR$/21_ImplicitIntents/CriminalIntent/21_ImplicitIntents_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22_FragmentComposition/CriminalIntent/22_FragmentComposition_CriminalIntent.iml" filepath="$PROJECT_DIR$/22_FragmentComposition/CriminalIntent/22_FragmentComposition_CriminalIntent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_NerdLauncher/NerdLauncher/23_NerdLauncher_NerdLauncher.iml" filepath="$PROJECT_DIR$/23_NerdLauncher/NerdLauncher/23_NerdLauncher_NerdLauncher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_UIThemes/RemoteControl/24_UIThemes_RemoteControl.iml" filepath="$PROJECT_DIR$/24_UIThemes/RemoteControl/24_UIThemes_RemoteControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25_XMLDrawables/RemoteControl/25_XMLDrawables_RemoteControl.iml" filepath="$PROJECT_DIR$/25_XMLDrawables/RemoteControl/25_XMLDrawables_RemoteControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26_HTTPBackgroundTasks/PhotoGallery/26_HTTPBackgroundTasks_PhotoGallery.iml" filepath="$PROJECT_DIR$/26_HTTPBackgroundTasks/PhotoGallery/26_HTTPBackgroundTasks_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27_Handlers/PhotoGallery/27_Handlers_PhotoGallery.iml" filepath="$PROJECT_DIR$/27_Handlers/PhotoGallery/27_Handlers_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_Search/PhotoGallery/28_Search_PhotoGallery.iml" filepath="$PROJECT_DIR$/28_Search/PhotoGallery/28_Search_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_IntentServices/PhotoGallery/29_IntentServices_PhotoGallery.iml" filepath="$PROJECT_DIR$/29_IntentServices/PhotoGallery/29_IntentServices_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_BroadcastIntents/PhotoGallery/30_BroadcastIntents_PhotoGallery.iml" filepath="$PROJECT_DIR$/30_BroadcastIntents/PhotoGallery/30_BroadcastIntents_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31_WebView/PhotoGallery/31_WebView_PhotoGallery.iml" filepath="$PROJECT_DIR$/31_WebView/PhotoGallery/31_WebView_PhotoGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32_TouchEvents/DragAndDraw/32_TouchEvents_DragAndDraw.iml" filepath="$PROJECT_DIR$/32_TouchEvents/DragAndDraw/32_TouchEvents_DragAndDraw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33_Location/RunTracker/33_Location_RunTracker.iml" filepath="$PROJECT_DIR$/33_Location/RunTracker/33_Location_RunTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34_SQLite/RunTracker/34_SQLite_RunTracker.iml" filepath="$PROJECT_DIR$/34_SQLite/RunTracker/34_SQLite_RunTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35_Loaders/RunTracker/35_Loaders_RunTracker.iml" filepath="$PROJECT_DIR$/35_Loaders/RunTracker/35_Loaders_RunTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36_Maps/RunTracker/36_Maps_RunTracker.iml" filepath="$PROJECT_DIR$/36_Maps/RunTracker/36_Maps_RunTracker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36_Maps/google-play-services_lib/36_Maps_google-play-services_lib.iml" filepath="$PROJECT_DIR$/36_Maps/google-play-services_lib/36_Maps_google-play-services_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../androidStudio/google-play-services_lib/google-play-services_lib.iml" filepath="$PROJECT_DIR$/../../androidStudio/google-play-services_lib/google-play-services_lib.iml" />
+    </modules>
+  </component>
+</project>
+
