@@ -52,6 +52,14 @@ public class QuizActivity extends Activity {
         setContentView(R.layout.activity_quiz);
 
         mQuestionTextView = (TextView)findViewById(R.id.question_text_view);
+	    mQuestionTextView.setOnClickListener(new View.OnClickListener() {
+
+		    @Override
+		    public void onClick(View v) {
+			    mCurrentIndex = (mCurrentIndex + 1) % mAnswerKey.length;
+			    updateQuestion();
+		    }
+	    });
         //set text to first question in array
 
         mTrueButton = (Button)findViewById(R.id.true_button);
